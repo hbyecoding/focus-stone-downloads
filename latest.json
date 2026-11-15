@@ -1,7 +1,7 @@
 {
-  "versionCode": 125,
-  "versionName": "1.11.0",
-  "apkUrl": "https://github.com/hbyecoding/focus-stone-downloads/releases/download/v1.11.0/focus-stone.apk",
-  "sha256": "eaba8343c302a43c5a36255ba76556245400b05beb960ef4f000b81809fe3537",
-  "notes": "小球按熄灯时间显示晚安状态，点开可查看生效条件；全局跟随系统深浅色；新增应用内检查更新与固定下载入口。"
+  "versionCode": 126,
+  "versionName": "0.1.11.0",
+  "apkUrl": "https://github.com/hbyecoding/focus-stone-downloads/releases/download/v0.1.11.0/focus-stone.apk",
+  "sha256": "85fb33fc48ed1f7b8e62b66c857a147066dcaf1060c49382be9c9d0dc123de01",
+  "notes": "小球按熄灯时间显示晚安状态，点开可查看生效条件；支持跟随系统、深色、浅色三种外观；新增应用内检查更新与固定下载入口。"
 }
